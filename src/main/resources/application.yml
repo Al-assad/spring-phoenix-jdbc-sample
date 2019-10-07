@@ -1,0 +1,4 @@
+spring.datasource.phoenix:
+  url: jdbc:phoenix:hbase:2181
+  driverClassName: org.apache.phoenix.jdbc.PhoenixDriver
+
